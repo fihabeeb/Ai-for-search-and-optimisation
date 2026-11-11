@@ -1,3 +1,5 @@
+#TODO: MUST RETURN BACK TO INITIAL CITY
+
 from math import sqrt
 import random
 
