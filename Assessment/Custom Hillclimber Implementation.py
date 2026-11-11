@@ -1,4 +1,3 @@
-#TODO: MUST RETURN BACK TO INITIAL CITY
 
 from math import sqrt
 import random
@@ -36,6 +35,7 @@ def mutate(cities, _pairings):
     _pairings.clear()
     for x in range(len(cities) - 1):
         pairings.append(Pairing(cities[x], cities[x+1]))
+    pairings.append(Pairing(cities[-1], cities[0]))
 
 bristol = City("Bristol", 30, 60)
 london = City("London", 40, 80)
@@ -50,7 +50,7 @@ pairings = []
 
 for x in range(len(all_cities) - 1):
     pairings.append(Pairing(all_cities[x], all_cities[x+1]))
-
+pairings.append(Pairing(all_cities[-1], all_cities[0]))
 
 best_total_distance = float('inf')
 
