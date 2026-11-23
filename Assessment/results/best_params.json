@@ -1,0 +1,14 @@
+{
+  "Random restart": {
+    "restarts": 10,
+    "local_search": "steepest"
+  },
+  "Iterated local search": {
+    "iterations": 100,
+    "local_search": "simple"
+  },
+  "Simulated annealing": {
+    "n_iterations": 100000,
+    "temp": 100000
+  }
+}

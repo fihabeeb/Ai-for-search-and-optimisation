@@ -1,0 +1,76 @@
+cities,A,B,p,A12,p (Holm),significant,effect,conclusion
+10,Simple,Steepest ascent,1.0,0.5,1.0,False,negligible,no significant difference
+10,Simple,Stochastic,1.0,0.5,1.0,False,negligible,no significant difference
+10,Simple,Random restart,1.0,0.5,1.0,False,negligible,no significant difference
+10,Simple,Iterated local search,1.0,0.5,1.0,False,negligible,no significant difference
+10,Simple,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+10,Steepest ascent,Stochastic,1.0,0.5,1.0,False,negligible,no significant difference
+10,Steepest ascent,Random restart,1.0,0.5,1.0,False,negligible,no significant difference
+10,Steepest ascent,Iterated local search,1.0,0.5,1.0,False,negligible,no significant difference
+10,Steepest ascent,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+10,Stochastic,Random restart,1.0,0.5,1.0,False,negligible,no significant difference
+10,Stochastic,Iterated local search,1.0,0.5,1.0,False,negligible,no significant difference
+10,Stochastic,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+10,Random restart,Iterated local search,1.0,0.5,1.0,False,negligible,no significant difference
+10,Random restart,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+10,Iterated local search,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+20,Simple,Steepest ascent,0.7716916623706269,0.475,1.0,False,negligible,no significant difference
+20,Simple,Stochastic,1.0,0.5,1.0,False,negligible,no significant difference
+20,Simple,Random restart,0.0003658726943381966,0.25,0.005007504434193928,True,large,Random restart better (large effect)
+20,Simple,Iterated local search,0.0003658726943381966,0.25,0.005007504434193928,True,large,Iterated local search better (large effect)
+20,Simple,Simulated annealing,0.0003658726943381966,0.25,0.005007504434193928,True,large,Simulated annealing better (large effect)
+20,Steepest ascent,Stochastic,0.7716916623706269,0.525,1.0,False,negligible,no significant difference
+20,Steepest ascent,Random restart,0.00033383362894626184,0.25,0.005007504434193928,True,large,Random restart better (large effect)
+20,Steepest ascent,Iterated local search,0.00033383362894626184,0.25,0.005007504434193928,True,large,Iterated local search better (large effect)
+20,Steepest ascent,Simulated annealing,0.00033383362894626184,0.25,0.005007504434193928,True,large,Simulated annealing better (large effect)
+20,Stochastic,Random restart,0.0003658726943381966,0.25,0.005007504434193928,True,large,Random restart better (large effect)
+20,Stochastic,Iterated local search,0.0003658726943381966,0.25,0.005007504434193928,True,large,Iterated local search better (large effect)
+20,Stochastic,Simulated annealing,0.0003658726943381966,0.25,0.005007504434193928,True,large,Simulated annealing better (large effect)
+20,Random restart,Iterated local search,1.0,0.5,1.0,False,negligible,no significant difference
+20,Random restart,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+20,Iterated local search,Simulated annealing,1.0,0.5,1.0,False,negligible,no significant difference
+30,Simple,Steepest ascent,0.035361583159179366,0.305,0.14144633263671746,False,medium,no significant difference
+30,Simple,Stochastic,0.9676026991278142,0.495,0.9676026991278142,False,negligible,no significant difference
+30,Simple,Random restart,8.924540415324446e-07,0.0625,1.1455639899889629e-05,True,large,Random restart better (large effect)
+30,Simple,Iterated local search,1.0484162035003703e-07,0.05,1.4677826849005184e-06,True,large,Iterated local search better (large effect)
+30,Simple,Simulated annealing,3.050732164426781e-06,0.075,3.050732164426781e-05,True,large,Simulated annealing better (large effect)
+30,Steepest ascent,Stochastic,0.1354144500201999,0.63875,0.40624335006059964,False,small,no significant difference
+30,Steepest ascent,Random restart,0.00016745178775938056,0.17375,0.0013396143020750445,True,large,Random restart better (large effect)
+30,Steepest ascent,Iterated local search,3.289179980217982e-06,0.125,3.050732164426781e-05,True,large,Iterated local search better (large effect)
+30,Steepest ascent,Simulated annealing,0.0010954636591808677,0.2075,0.006572781955085207,True,large,Simulated annealing better (large effect)
+30,Stochastic,Random restart,8.812030692222792e-07,0.06,1.1455639899889629e-05,True,large,Random restart better (large effect)
+30,Stochastic,Iterated local search,2.9609674007063365e-08,0.025,4.441451101059505e-07,True,large,Iterated local search better (large effect)
+30,Stochastic,Simulated annealing,1.8792525745019425e-06,0.0675,2.0671778319521367e-05,True,large,Simulated annealing better (large effect)
+30,Random restart,Iterated local search,0.01971162829202286,0.375,0.0985581414601143,False,small,no significant difference
+30,Random restart,Simulated annealing,0.2495855839651201,0.5925,0.4991711679302402,False,small,no significant difference
+30,Iterated local search,Simulated annealing,0.0003658726943381966,0.75,0.002561108860367376,True,large,Iterated local search better (large effect)
+40,Simple,Steepest ascent,0.7971881138618718,0.475,1.0,False,negligible,no significant difference
+40,Simple,Stochastic,0.5070866177662403,0.4375,1.0,False,small,no significant difference
+40,Simple,Random restart,4.921097201386824e-07,0.035,4.921097201386824e-06,True,large,Random restart better (large effect)
+40,Simple,Iterated local search,1.124672972652926e-08,0.0,1.660432025267983e-07,True,large,Iterated local search better (large effect)
+40,Simple,Simulated annealing,8.705193375338547e-08,0.0075,1.0446232050406257e-06,True,large,Simulated annealing better (large effect)
+40,Steepest ascent,Stochastic,0.597690691029573,0.45,1.0,False,negligible,no significant difference
+40,Steepest ascent,Random restart,6.891711835827733e-07,0.04125,5.513369468662186e-06,True,large,Random restart better (large effect)
+40,Steepest ascent,Iterated local search,1.2232375032442778e-08,0.00125,1.660432025267983e-07,True,large,Iterated local search better (large effect)
+40,Steepest ascent,Simulated annealing,3.0613583186673205e-07,0.02875,3.3674941505340527e-06,True,large,Simulated annealing better (large effect)
+40,Stochastic,Random restart,6.103855727708254e-06,0.0825,4.272699009395778e-05,True,large,Random restart better (large effect)
+40,Stochastic,Iterated local search,1.1069546835119886e-08,0.0,1.660432025267983e-07,True,large,Iterated local search better (large effect)
+40,Stochastic,Simulated annealing,5.02658980579337e-07,0.03875,4.921097201386824e-06,True,large,Simulated annealing better (large effect)
+40,Random restart,Iterated local search,9.064408759495905e-06,0.13625,5.438645255697543e-05,True,large,Iterated local search better (large effect)
+40,Random restart,Simulated annealing,0.27095516963596766,0.4,1.0,False,small,no significant difference
+40,Iterated local search,Simulated annealing,0.00017513426494145053,0.78875,0.0008756713247072526,True,large,Iterated local search better (large effect)
+50,Simple,Steepest ascent,0.10751135969600563,0.35,0.4300454387840225,False,medium,no significant difference
+50,Simple,Stochastic,0.507505297961912,0.4375,1.0,False,small,no significant difference
+50,Simple,Random restart,5.188595971343172e-07,0.035,6.226315165611807e-06,True,large,Random restart better (large effect)
+50,Simple,Iterated local search,1.6425344342427753e-08,0.00125,2.463801651364163e-07,True,large,Iterated local search better (large effect)
+50,Simple,Simulated annealing,7.335752838177532e-07,0.04125,8.069328121995285e-06,True,large,Simulated annealing better (large effect)
+50,Steepest ascent,Stochastic,0.23932370336933684,0.61,0.7179711101080105,False,small,no significant difference
+50,Steepest ascent,Random restart,3.2636585875286942e-06,0.06875,3.214221072029263e-05,True,large,Random restart better (large effect)
+50,Steepest ascent,Iterated local search,2.1052452903849152e-08,0.005,2.947343406538881e-07,True,large,Iterated local search better (large effect)
+50,Steepest ascent,Simulated annealing,4.493547041465217e-06,0.075,3.214221072029263e-05,True,large,Simulated annealing better (large effect)
+50,Stochastic,Random restart,7.532790680773917e-06,0.085,3.766395340386959e-05,True,large,Random restart better (large effect)
+50,Stochastic,Iterated local search,6.829288324498248e-08,0.0275,8.878074821847722e-07,True,large,Iterated local search better (large effect)
+50,Stochastic,Simulated annealing,6.174209338629976e-06,0.08125,3.704525603177986e-05,True,large,Simulated annealing better (large effect)
+50,Random restart,Iterated local search,3.2142210720292636e-06,0.09625,3.214221072029263e-05,True,large,Iterated local search better (large effect)
+50,Random restart,Simulated annealing,0.7451018551465955,0.53125,1.0,False,negligible,no significant difference
+50,Iterated local search,Simulated annealing,3.8013387362378086e-06,0.89625,3.214221072029263e-05,True,large,Iterated local search better (large effect)
